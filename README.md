@@ -1,2 +1,2 @@
 # curriculum_vitae
-Curriculum Vitae PDF
+Curriculum Vitae and Resume PDFs
